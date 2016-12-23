@@ -1,6 +1,6 @@
 {
   "name": "@aacn500/fcc-shorturl",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "URL Shortener Microservice for freeCodeCamp",
   "engines": {
     "node": "6.9.2"
